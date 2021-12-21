@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(133, 182, 214);
+}
+h1{
+    color: black;
+    font-size: comic; 
+    text-align: right;
+}
+h2{
+    color: black;
+    font-size: comic;
+}
+
+p{
+    color: black;
+    font-size: comic;
+    text-indent: 30px;
+}
+.naranja{
+    color: rgb(255, 72, 0);
+}
+.rojo{
+    color: red;
+}
+.verde{
+    color:green;
+    background-color: white;
+}
