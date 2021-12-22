@@ -1,0 +1,31 @@
+body{
+    background-color: turquoise;
+}
+h1{
+    margin: 0 auto;
+    text-align: center;
+}
+table, tr, th, td{
+    border: 1px solid black;
+    color:black;
+    width: 500px;
+    margin: 0 auto;
+}
+td{
+    width: 0 auto;
+}
+.red{
+    color: red;
+}
+.amarillo{
+    color: yellow;
+}
+.naranja{
+    background-color: orange;
+}
+.verde{
+    background-color: greenyellow;
+}
+.negro{
+    background-color: black;
+}

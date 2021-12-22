@@ -1,0 +1,16 @@
+table, tr, th, td{
+    border: 1px solid black;
+    color:white;
+    font-family: cursive;
+    width: 300px;
+
+}
+table{
+    background-color: darkslateblue;
+}
+th{
+    background-color: violet;
+}
+td{
+    background-color:cadetblue;
+}
