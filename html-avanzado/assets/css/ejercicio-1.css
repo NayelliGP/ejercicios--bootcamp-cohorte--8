@@ -1,0 +1,41 @@
+.formulario{
+    border: 10px solid rgb(108, 167, 201);
+    background-color: green;
+    height: 420px;
+    width: 350px; 
+    padding: 25px;
+    border-radius: 10px; 
+}
+h2{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-indent: 10px;
+    
+}
+label{
+    border-radius: 2px;
+    color: white;
+    width: 98px;
+    margin: 5px;
+    border: 5px;
+    display: inline-block;
+}
+
+input{
+    border: 3px solid red;
+    border-radius: 1px;
+    color: white;
+    margin-bottom: 5px;
+    width:auto;
+}
+
+.boton{
+    padding: 15px;
+    margin-bottom: 15px;
+}
+p{
+    border: 3px dashed white;
+    margin-left: 10px;
+    margin-right: 150px;
+}
