@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(192, 190, 190);
+}
+h1{
+    text-align: center;
+}
+h2{
+    color: white;
+    display: block;
+    background-color: grey;
+    width: 1100px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.red{
+    color: red;
+}
+.white{
+    color: black;
+    background-color: white;
+}
+.imagen{
+    width: 150px;
+    height: 120px;
+}
+p{
+ /*    display: inline; */
+ text-indent: 20px;
+ display: inline-block;
+ text-align: justify;
+
+}
+.juntos{
+    display: flex;
+    margin-left: 130px;
+    margin-right: 250px;
+}
