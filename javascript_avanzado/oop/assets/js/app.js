@@ -87,9 +87,6 @@ console.log (Animal1);
 //Animal1.saludar();
 
 
-
-
-
 /* function constructor (){
 
 } */

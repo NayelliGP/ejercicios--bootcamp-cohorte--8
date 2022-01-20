@@ -7,6 +7,7 @@ Debe tener un método llamado toString() que muestre los datos del auto y la vel
 Cáda vez que se use el método acelerar, se aumentará uno en velocidad, cada vez que se use el método reversa se restará 1.
 (la velocidad puede ser negativa). Al usar el método frenar, se fijará la velocidad en 0.
 
+
 */
 class Carro {
     constructor(marca, color, modelo, numeroPuertas) {

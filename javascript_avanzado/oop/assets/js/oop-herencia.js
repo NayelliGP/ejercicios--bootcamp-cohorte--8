@@ -7,6 +7,7 @@ class Pokemon{
     //metodos 
     atacar(){
         return console.log (`${this.nombre} está atacando.`)
+        
     }
 }
 
@@ -26,6 +27,7 @@ class Electrico extends Pikachu{
     constructor(nombre, tipo, edad, color){
         super(nombre, tipo, edad);
         this.color = color;
+
     }
 }
 
